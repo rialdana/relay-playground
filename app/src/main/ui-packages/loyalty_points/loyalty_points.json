@@ -78,12 +78,7 @@
           {
             "id": "Label",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "0.0",
-              "saturation": "0.0",
-              "value": "0.9882352941176471"
-            },
+            "color": "^crmb.onPrimary",
             "text-content": "$Label",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -127,6 +122,10 @@
     "crmb.primary": {
       "data-type": "color",
       "description": null
+    },
+    "crmb.onPrimary": {
+      "data-type": "color",
+      "description": null
     }
   },
   "previews": [
@@ -145,6 +144,12 @@
           "hue": "253.92857142857142",
           "saturation": "0.5656565656565656",
           "value": "0.7764705882352941"
+        },
+        "crmb.onPrimary": {
+          "alpha": "1.0",
+          "hue": "0.0",
+          "saturation": "0.0",
+          "value": "0.9882352941176471"
         }
       }
     }

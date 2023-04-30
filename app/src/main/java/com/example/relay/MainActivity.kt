@@ -16,6 +16,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.relay.crmbbutton.CrmbButton
+import com.example.relay.crmbbutton.Hierarchy
+import com.example.relay.crmbbutton.Size
 import com.example.relay.crmbbutton.State
 import com.example.relay.crmbbutton.Type
 import com.example.relay.hellocard.HelloCard
@@ -49,6 +51,9 @@ class MainActivity : ComponentActivity() {
                             text = "Make a payment",
                             type = Type.Default,
                             state = State.Enabled,
+                            showLeadingIcon = true,
+                            hierarchy = Hierarchy.Primary,
+                            size = Size.L,
                         )
                     }
                 }

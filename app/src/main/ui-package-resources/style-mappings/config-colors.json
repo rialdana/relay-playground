@@ -1,12 +1,15 @@
 {
   "figma": {
     "colors": {
-      "Primary/5": "crmb.primary"
+      "Primary/5": "crmb.primary",
+      "Neutral/1": "crmb.onPrimary",
+      "Neutral/0": "crmb.onPrimary"
     }
   },
   "compose": {
     "colors": {
-      "crmb.primary": "MaterialTheme.colorScheme.primary"
+      "crmb.primary": "MaterialTheme.colorScheme.primary",
+      "crmb.onPrimary": "MaterialTheme.colorScheme.onPrimary"
     },
     "options": {
       "packages": {
