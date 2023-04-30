@@ -715,12 +715,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -802,12 +797,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -883,12 +873,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -1135,12 +1120,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -1222,12 +1202,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -1303,12 +1278,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -1556,16 +1526,12 @@
               }
             },
             "stroke-width": "2.0",
-            "stroke-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "stroke-color": "^crmb.primary",
             "arrangement": "row",
             "children": [
               "Center Icon"
-            ]
+            ],
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Center Icon",
@@ -1806,16 +1772,12 @@
               }
             },
             "stroke-width": "2.0",
-            "stroke-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "stroke-color": "^crmb.primary",
             "arrangement": "row",
             "children": [
               "Center Icon"
-            ]
+            ],
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Center Icon",
@@ -2208,18 +2170,14 @@
               }
             },
             "stroke-width": "2.0",
-            "stroke-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "stroke-color": "^crmb.primary",
             "arrangement": "row",
             "children": [
               "Leading Icon Wrapper",
               "Button"
             ],
-            "item-spacing": "8.0"
+            "item-spacing": "8.0",
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Leading Icon Wrapper",
@@ -2241,12 +2199,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -2646,18 +2599,14 @@
               }
             },
             "stroke-width": "2.0",
-            "stroke-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "stroke-color": "^crmb.primary",
             "arrangement": "row",
             "children": [
               "Leading Icon Wrapper",
               "Button"
             ],
-            "item-spacing": "8.0"
+            "item-spacing": "8.0",
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Leading Icon Wrapper",
@@ -2679,12 +2628,7 @@
           {
             "id": "Button",
             "font-weight": "700.0",
-            "color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            },
+            "color": "^crmb.primary",
             "text-content": "$text",
             "overflow": "visible",
             "text-align-vertical": "center",
@@ -2931,12 +2875,7 @@
             "children": [
               "Center Icon"
             ],
-            "background-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            }
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Center Icon",
@@ -3176,12 +3115,7 @@
             "children": [
               "Center Icon"
             ],
-            "background-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            }
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Center Icon",
@@ -3575,12 +3509,7 @@
               "Button"
             ],
             "item-spacing": "8.0",
-            "background-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            }
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Leading Icon Wrapper",
@@ -4008,12 +3937,7 @@
               "Button"
             ],
             "item-spacing": "8.0",
-            "background-color": {
-              "alpha": "1.0",
-              "hue": "253.92857142857142",
-              "saturation": "0.5656565656565656",
-              "value": "0.7764705882352941"
-            }
+            "background-color": "^crmb.primary"
           },
           {
             "id": "Leading Icon Wrapper",
@@ -4095,6 +4019,12 @@
       "data-type": "list-item",
       "required": false,
       "description": ""
+    }
+  },
+  "ambients": {
+    "crmb.primary": {
+      "data-type": "color",
+      "description": null
     }
   },
   "previews": [
@@ -4183,6 +4113,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4270,6 +4208,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4357,6 +4303,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4444,6 +4398,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4531,6 +4493,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4618,6 +4588,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4705,6 +4683,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4792,6 +4778,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4879,6 +4873,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -4966,6 +4968,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5053,6 +5063,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5140,6 +5158,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5227,6 +5253,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5314,6 +5348,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5401,6 +5443,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5488,6 +5538,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5575,6 +5633,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5657,6 +5723,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5744,6 +5818,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5831,6 +5913,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -5918,6 +6008,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6005,6 +6103,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6092,6 +6198,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6179,6 +6293,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6353,6 +6475,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6440,6 +6570,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6527,6 +6665,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6614,6 +6760,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6788,6 +6942,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6875,6 +7037,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -6962,6 +7132,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7049,6 +7227,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7136,6 +7322,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7223,6 +7417,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7310,6 +7512,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7392,6 +7602,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7479,6 +7697,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7566,6 +7792,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7653,6 +7887,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7740,6 +7982,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7827,6 +8077,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -7914,6 +8172,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8001,6 +8267,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8088,6 +8362,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8175,6 +8457,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8262,6 +8552,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8349,6 +8647,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8436,6 +8742,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8523,6 +8837,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8610,6 +8932,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8697,6 +9027,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8784,6 +9122,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8871,6 +9217,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -8958,6 +9312,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -9045,6 +9407,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -9132,6 +9502,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -9219,6 +9597,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     },
     {
@@ -9306,6 +9692,14 @@
             ]
           }
         ]
+      },
+      "ambients": {
+        "crmb.primary": {
+          "alpha": "1.0",
+          "hue": "253.92857142857142",
+          "saturation": "0.5656565656565656",
+          "value": "0.7764705882352941"
+        }
       }
     }
   ],

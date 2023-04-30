@@ -1,0 +1,17 @@
+{
+  "figma": {
+    "colors": {
+      "Primary/5": "crmb.primary"
+    }
+  },
+  "compose": {
+    "colors": {
+      "crmb.primary": "MaterialTheme.colorScheme.primary"
+    },
+    "options": {
+      "packages": {
+        "MaterialTheme": "androidx.compose.material3"
+      }
+    }
+  }
+}

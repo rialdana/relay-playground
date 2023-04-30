@@ -1,3 +1,4 @@
 {
-  "preview-theme": "com.example.relay.ui.theme.RelayTheme"
+  "preview-theme": "com.example.relay.ui.theme.RelayTheme",
+  "ambient-translations-path": "app/src/main/ui-package-resources/style-mappings/config-colors.json"
 }
