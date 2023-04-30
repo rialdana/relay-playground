@@ -1,0 +1,146 @@
+{
+  "name": "loyalty_points",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "zoyZAZ5cAu5laEq1fhM28N",
+    "node": "20:1781",
+    "version": "3415940915",
+    "component-id": "263658bde977b50335195d8c4e389ecf2177cc7a"
+  },
+  "default": "Loyalty Points",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "remix-icons/line/finance/copper-diamond-line"
+      },
+      {
+        "type": "text",
+        "id": "Label"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      }
+    ],
+    "modes": {
+      "Loyalty Points": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": "8.0",
+              "top": "4.0",
+              "right": "8.0",
+              "bottom": "4.0"
+            },
+            "border-radius": "50.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "remix-icons/line/finance/copper-diamond-line",
+              "Label"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "253.92857142857142",
+              "saturation": "0.5656565656565656",
+              "value": "0.7764705882352941"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "remix-icons/line/finance/copper-diamond-line",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Label",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9882352941176471"
+            },
+            "text-content": "$Label",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "13.0",
+            "letter-spacing": "0.25",
+            "line-height": "1.8461538696289062",
+            "typeface": "DM Sans"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "1.3333282470703125",
+              "top": "1.33331298828125",
+              "right": "1.333343505859375",
+              "bottom": "1.3333740234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "Label": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "Loyalty Points",
+      "size": {
+        "width": 72.0,
+        "height": 32.0
+      },
+      "parameters": {
+        "Label": "Label"
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
